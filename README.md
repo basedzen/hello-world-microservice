@@ -12,7 +12,6 @@ The project highlights best practices in cloud engineering, including testing du
 * Security and quality checks using tools like SonarQube.
 * Scalability: Utilises AWS ECS Fargate to scale seamlessly.
 * Testing: Includes unit testing, integration testing, and security validation.
-* 
 
 # Project Architecture
 ### Microservice:
