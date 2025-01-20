@@ -87,18 +87,3 @@ Validate configuration with:
 * Infrastructure as Code: Terraform.
 * CI/CD: GitHub Actions.
 * Testing and Security: SonarQube, pytest
-
-# Future Enhancements
-* Add integration with CloudWatch for monitoring and logging.
-* Implement auto-scaling policies for ECS services.
-* Enhance the CI/CD pipeline with additional testing stages (e.g., load testing).
-
-# Contributing
-
-* Fork the repository and create a new feature branch.
-* Submit a pull request with detailed explanations of your changes.
-
-# Contact
-For any queries or feedback, feel free to reach out:
-
-GitHub: zencaviar
