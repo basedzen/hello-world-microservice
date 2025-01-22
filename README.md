@@ -1,6 +1,4 @@
-Hello World Microservice
 This project demonstrates the deployment of a containerised Python microservice using AWS ECS (Elastic Container Service) and Fargate. It showcases Infrastructure as Code (IaC) using Terraform, integrated with a CI/CD pipeline via GitHub Actions.
-
 The project highlights best practices in cloud engineering, including testing during deployments, security in code, and scalable infrastructure.
 
 # Features
