@@ -36,7 +36,7 @@ Containerised with Docker.
 * GitHub repository with GitHub Actions enabled.
 ### Steps to Deploy
 #### Clone the Repository:
-git clone https://github.com/zencaviar/hello-world-microservice.git
+git clone https://github.com/basedzen/hello-world-microservice.git
 cd hello-world-microservice
 #### Build and Test the Docker Image:
 docker build -t hello-world-microservice .
